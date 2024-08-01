@@ -1,0 +1,217 @@
+Pattern 1 :
+        1
+       212
+      32123
+     4321234
+    543212345
+   65432123456
+  7654321234567
+ 876543212345678
+98765432123456789
+
+Pattern 2 :
+       1
+      222
+     33333
+    4444444
+   555555555
+  66666666666
+ 7777777777777
+888888888888888
+
+Pattern 3 : Star Pattern Left side
+*
+**
+***
+****
+*****
+******
+*******
+********
+
+Pattern 4 : Star Pattern Right side
+        *
+       **
+      ***
+     ****
+    *****
+   ******
+  *******
+ ********
+*********
+
+Pattern 5 : Combined Left and Right Triangle
+*                *
+**              **
+***            ***
+****          ****
+*****        *****
+******      ******
+*******    *******
+********  ********
+******************
+
+Pattern 6 : Star Pyramid
+        *
+       ***
+      *****
+     *******
+    *********
+   ***********
+  *************
+ ***************
+*****************
+
+Pattern 7 : Star Pattern Reverse Left Side
+*********
+********
+*******
+******
+*****
+****
+***
+**
+*
+
+Pattern 8 : Star Pattern Reverse Right Side
+*********
+ ********
+  *******
+   ******
+    *****
+     ****
+      ***
+       **
+        *
+
+Pattern 9 : Combined Reverse left and Right Side
+******************
+********  ********
+*******    *******
+******      ******
+*****        *****
+****          ****
+***            ***
+**              **
+*                *
+
+Pattern 10 : Reverse Star Pyramid
+*****************
+ ***************
+  *************
+   ***********
+    *********
+     *******
+      *****
+       ***
+        *
+
+Pattern 11 : Butterfly Pattern
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+Pattern 12 : Diamond Star Pyramid
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+
+Pattern 13 : Diamond Star Outline
+    *
+   * *
+  *   *
+ *     *
+  *   *
+   * *
+    *
+
+Pattern 14 : Hollow Diamond
+**********
+****  ****
+***    ***
+**      **
+*        *
+*        *
+**      **
+***    ***
+****  ****
+**********
+
+Pattern 15 : Hourglass Pattern
+ *********
+  *******
+   *****
+    ***
+     *
+     *
+    ***
+   *****
+  *******
+ *********
+
+Pattern 16 : X pattern
+*         *
+ *       *
+  *     *
+   *   *
+    * *
+     *
+     *
+    * *
+   *   *
+  *     *
+ *       *
+*         *
+
+
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+Pattern 1 :
+binary
+
+Diamond of Numbers
+Floyds Triangle
+Hollow Square
+Nested Star Hash Pyramid
+Number Alphabet Pattern
+Number Diamond Pattern
+Number Pattern 1
+Number Pattern 2
+Reverse Number Pattern
+Alphabet and Star Pattern
+Alphabet Pattern
+Number Pyramid
+Pascal Triangle
+Pascal Triangle 2
+
+Pattern 7
+Rectangle 1
+Rhombus Pattern Numeric Hollow Border
+Triangle with only border
+
+
+
